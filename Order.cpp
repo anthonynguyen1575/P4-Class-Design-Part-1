@@ -1,5 +1,4 @@
 #include "Order.h"
-#include <iostream>
 
 Order::Order(std::vector<Item> order)
 	: myOrder { order } { 
